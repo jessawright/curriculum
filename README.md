@@ -7,7 +7,7 @@ This is a loose curriculum for myself. It is based off of my own starting point,
 * More Javascript
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
     - [x] Up & Going
-    - [ ] Scope & Closures
+    - [x] Scope & Closures
     - [ ] this & Object Prototypes
     - [ ] Types & Grammar
     - [ ] ES6 & Beyond
